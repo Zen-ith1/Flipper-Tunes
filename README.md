@@ -10,7 +10,7 @@ ________________________________________________________________________________
 Description and Notes ~ 
 
 
-these are a Collection of FAP files for the Flipper Zero Music Player
+these are a Collection of files for the Flipper Zero Music Player
 
 some files may need converted to FAP files to be able to use 
 
