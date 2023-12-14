@@ -10,9 +10,9 @@ ________________________________________________________________________________
 Description and Notes ~ 
 
 
-these are a Collection of files for the Flipper Zero Music Player
+these are a Collection of files for the Flipper Zero WAV Player.
 
-some files may need converted to FAP files to be able to use 
+these files were converted to wav files for the wav player on flipper zero 
 
 More Music To Be Added Daily!
 
