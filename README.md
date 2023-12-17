@@ -31,7 +31,7 @@ ReadMe
 ___________________________________________________________________________________________
 
 
-Description and Notes ~ 
+~ Description and Notes ~ 
 
 
 - These are a Collection of files for the Flipper Zero WAV Player.
@@ -46,7 +46,7 @@ Description and Notes ~
 ___________________________________________________________________________________________
 
 
-Check me out @
+@ Check me out @
 
 Github: https://github.com/Zen-ith1
 Twitter: @TheWhiteWid0w
