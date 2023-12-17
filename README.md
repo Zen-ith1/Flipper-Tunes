@@ -14,6 +14,8 @@ these are a Collection of files for the Flipper Zero WAV Player.
 
 these files were converted to wav files for the wav player on flipper zero 
 
+Just drag and drop files in SD/WAVPlayer.
+
 More Music To Be Added Daily!
 
 
